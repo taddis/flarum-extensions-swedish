@@ -19,8 +19,11 @@ If you ever need to update, just run `composer update` in your Flarum root folde
 
 ## Extensions translated
 
-* Gamification by FriendsOfFlarum - [FriendsOfFlarum/gamification](https://github.com/FriendsOfFlarum/gamification) | [fof/gamification](https://github.com/FriendsOfFlarum/gamification)
+* flarum-ext-money - [antoinefr/flarum-ext-money](https://github.com/AntoineFr/flarum-ext-money) | [antoinefr/flarum-ext-money](https://packagist.org/packages/antoinefr/flarum-ext-money) 
 * Filter by FriendsOfFlarum - [FriendsOfFlarum/filter](https://github.com/FriendsOfFlarum/filter) | [fof/filter](https://packagist.org/packages/fof/filter)
+* Gamification by FriendsOfFlarum - [FriendsOfFlarum/gamification](https://github.com/FriendsOfFlarum/gamification) | [fof/gamification](https://github.com/FriendsOfFlarum/gamification)
+* Links by FriendsOfFlarum - [FriendsOfFlarum/links](https://github.com/FriendsOfFlarum/links) | [fof/links](https://packagist.org/packages/fof/links)
+* ReCAPTCHA by FriendsOfFlarum - [FriendsOfFlarum/recaptcha](https://github.com/FriendsOfFlarum/recaptcha) | [fof/recaptcha](https://packagist.org/packages/fof/recaptcha)
 * Two Factor By ReFlar - [ReFlar/twofactor](https://github.com/ReFlar/twofactor) | [reflar/twofactor](https://packagist.org/packages/reflar/twofactor) 
 
 ## Thanks
