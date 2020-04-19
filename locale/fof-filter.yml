@@ -1,4 +1,4 @@
-issyrocks12-filter:
+fof-filter:
     forum:
         flagger_name: Automoderator
         flaged_text: Innehöll blockerade strängar
@@ -27,3 +27,4 @@ issyrocks12-filter:
                 Om du tror att detta är inte stämmer så kan du vara lugn. Varje inlägg som filtrerats bort kontrolleras av våra moderatorer. Om de anser att ditt inlägg inte ska raderas, så kommer dem att återställa det.
 
                 Tack för visad förståelse.
+

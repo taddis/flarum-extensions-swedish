@@ -1,4 +1,4 @@
-issyrocks12-twofactor:
+reflar-twofactor:
   forum:
     accountlabel: Två-Faktor
     reloadmsg: Förbereder två-faktors autentisering... vänligen öppna fönstret för två-faktor igen.
@@ -20,3 +20,4 @@ issyrocks12-twofactor:
       login_title: Två-faktors autentisering
       recov_help1: Vänligen spara de här koderna!
       recov_help2: Detta är det enda sättet du kommer att kunna få tillgång till ditt konto om du inte längre kan komma åt din TOTP-applikation. De här koderna kommer inte att visas igen.
+

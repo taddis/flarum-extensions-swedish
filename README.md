@@ -16,6 +16,14 @@ Then activate the extension under _Admin Panel > Extensions_ section.<br>
 If you want to try the unstable version you can run `composer require taddis/flarum-extensions-swedish dev-master` instead.<br>
 If you ever need to update, just run `composer update` in your Flarum root folder.
 
+
+## Extensions translated
+
+* Gamification by FriendsOfFlarum - [FriendsOfFlarum/gamification](https://github.com/FriendsOfFlarum/gamification) | [fof/gamification](https://github.com/FriendsOfFlarum/gamification)
+* Filter by FriendsOfFlarum - [FriendsOfFlarum/filter](https://github.com/FriendsOfFlarum/filter) | [fof/filter](https://packagist.org/packages/fof/filter)
+* Two Factor By ReFlar - [ReFlar/twofactor](https://github.com/ReFlar/twofactor) | [reflar/twofactor](https://packagist.org/packages/reflar/twofactor) 
+
+## Thanks
 A big thanks to [@nlssn](https://github.com/nlssn) who created and maintained the first extensions translations.
 
 ## License

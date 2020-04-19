@@ -65,3 +65,4 @@ reflar-gamification:
           help: "Skriv in antalet uppröstningar som krävs, rankens namn och hexkoden för rankens färg."
           points: Poäng
           name: Namn
+
